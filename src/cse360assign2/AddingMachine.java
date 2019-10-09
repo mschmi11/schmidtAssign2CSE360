@@ -2,6 +2,7 @@
 //Assignment: Assignment 2
 //Class: CSE 360 M 9:40AM
 //This is the version contained in the second commit version.
+//Link to repository: https://github.com/mschmi11/schmidtAssign2CSE360
 
 package cse360assign2;
 
